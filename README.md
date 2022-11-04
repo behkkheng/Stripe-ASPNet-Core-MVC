@@ -17,7 +17,6 @@
 <p><b>Notes: </b>Can be any name for the controller.</p>
 
 ```c#
-[Route("create-payment-intent")]
     public class PaymentIntentApiController : Controller
     {
         public IActionResult Index()
