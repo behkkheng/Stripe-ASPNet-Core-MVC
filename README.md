@@ -17,7 +17,7 @@
 <p><b>Notes: </b>Can be any name for the controller.</p>
 
 ```c#
-    public class PaymentIntentApiController : Controller
+public class PaymentIntentApiController : Controller
     {
         public IActionResult Index()
         {
